@@ -117,12 +117,12 @@ AI-PathFinder-Project/
 | Orange | Dynamic obstacles |
 
 ## How It Works
-Click to place the start point (green)
-Click to place the target point (red)
-Click to add walls (gray)
-Press 1–6 to select an algorithm
-Press SPACE to start visualization
-Watch the algorithm explore and find the path
+1. Click to place the start point (green)  
+2. Click to place the target point (red)  
+3. Click to add walls (gray)  
+4. Press 1–6 to select an algorithm  
+5. Press SPACE to start visualization  
+6. Watch the algorithm explore and find the path  
 
 ## requirements.txt Content
 pygame>=2.0.0
