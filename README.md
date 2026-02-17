@@ -110,7 +110,6 @@ AI-PathFinder-Project/
 | ------ | ----------------- |
 | Green  | Start node        |
 | Red    | Target node       |
-| Gray   | Wall/Obstacle     |
 | Yellow | Frontier nodes    |
 | Blue   | Explored nodes    |
 | Purple | Final path        |
@@ -119,9 +118,8 @@ AI-PathFinder-Project/
 ## How It Works
 1. Click to place the start point (green)  
 2. Click to place the target point (red)  
-3. Click to add walls (gray)  
-4. Press 1–6 to select an algorithm  
-5. Press SPACE to start visualization  
+3. Press 1–6 to select an algorithm  
+4. Press SPACE to start visualization  
 6. Watch the algorithm explore and find the path  
 
 ## requirements.txt Content
