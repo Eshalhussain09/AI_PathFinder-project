@@ -18,7 +18,6 @@ A Python-based visualization tool that demonstrates uninformed search algorithms
 
 - Place Start node
 - Place Target node
-- Add Obstacles (Walls)
 
 ### Live Statistics Display
 
@@ -33,8 +32,7 @@ A Python-based visualization tool that demonstrates uninformed search algorithms
 - Dynamic obstacles appearing during search
 - Pause / Resume
 - Reset and Clear controls
-
-
+  
 ## Requirements
 
 - Python 3.7 or higher  
