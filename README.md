@@ -55,15 +55,15 @@ git clone https://github.com/MaryamZahid-gh/AI-PathFinder-Project
 cd AI-PathFinder-Project
 ```
 ### Install dependencies
-#### If using Python 3.14 (recommended)
+### If using Python 3.14 (recommended)
 ```bash
 pip install pygame-ce
 ```
-#### OR if using older Python (3.12 or below)
+### OR if using older Python (3.12 or below)
 ```bash
  pip install pygame
 ```
-#### OR using requirements file
+### OR using requirements file
 ```bash
  pip install -r requirements.txt
 ```
@@ -95,13 +95,15 @@ python gui_main.py
 | Bidirectional | Searches from start and goal       | Yes     | Yes      |
 
 ## Project Structure
+```
 AI-PathFinder-Project/
 │
-├── gui_main.py       # Main application and user interface
-├── algorithms.py     # All search algorithm implementations
-├── grid_model.py     # Grid and node data structures
-├── requirements.txt  # Project dependencies
-└── README.md         # Project documentation
+├── gui_main.py        # Main application and user interface
+├── algorithms.py      # All search algorithm implementations
+├── grid_model.py      # Grid and node data structures
+├── requirements.txt   # Project dependencies
+└── README.md          # Project documentation
+```
 
 ## Color Legend
 | Color  | Meaning           |
